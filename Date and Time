@@ -1,0 +1,12 @@
+<html>
+<body>
+
+<h2>Date and Time</h2>
+
+<button onclick = "document.getElementById('demo').innerHTML = Date()">
+Let's see</button>
+
+<p id="demo"></p>
+
+</body>
+</html> 
