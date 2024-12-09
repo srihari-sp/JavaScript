@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<h1>The Window Object</h1>
+<h2>The alert() method</h2>
+
+<p>CLick the button to display an alert box.</p>
+
+<button type = "button" onclick = "MyFunction()">Try it</button>
+
+<script>
+function MyFunction(){
+alert("Hello! This is an alert box.");
+}
+</script>
+
+</body>
+</html>
